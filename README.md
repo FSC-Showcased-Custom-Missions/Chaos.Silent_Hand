@@ -1,12 +1,19 @@
-# Mission Title - By Author
+# Silent Hand - By Chaos
 
-## Mission Briefing
-Put the mission brief here
+## Mission Briefing:
+Location: ???, “Abandoned” Halcyon Facility
 
-## Gameplay Overview
-Put the submitted overview here
+Date: October 16th 2016
 
-## How To Play
-1) Copy this link: (link to mission code here)
-2) Paste it into the "Mission Code" box found in the "Custom Mission" mission in the lobby
-3) Press enter
+After the events of the Withdrawal, Jackdaw decided to go on a mission of his own for a few months. Who did he let in charge?
+None other than Sparrow, with her in Charge she sent the Freelancer on a mission with the Title “Operation: Silent Hand” to retrieve old files from an abandoned Halcyon Facility, but not everything goes to plan…
+
+## Extra Info:
+_As of writing, Stealth is the only available tactic._
+
+- No Forced Loadout
+- ~~Drill recommended for loud~~
+- Legend Recommended
+- Disguise at spawn
+- Stealth ~~and Loud options (Nightmare = Harder Loud)~~
+- Might be very tedious ~~(especially on loud)~~
